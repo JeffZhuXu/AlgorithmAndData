@@ -14,7 +14,7 @@ import java.util.zip.GZIPOutputStream;
  * GZIP����
  * 
  * @author <a href="mailto:zlex.dongliang@gmail.com">����</a>
- * @since 1.0
+ * @since 1.0...
  */
 public abstract class GZipUtils {
 
