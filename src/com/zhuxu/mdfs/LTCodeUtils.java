@@ -69,7 +69,7 @@ public class LTCodeUtils {
 			this.message = originalMessage;
 		}
 		
-		@Override
+
 		public int compareTo(OriginalMsg o) {
 			// TODO Auto-generated method stub
 			return this.id-o.id;
@@ -114,7 +114,7 @@ public class LTCodeUtils {
 				originalMsgList.add(originalMsg);
 			}
 		}
-		@Override
+
 		public int compareTo(EncodeMsg o) {
 			// TODO Auto-generated method stub
 			return this.degree-o.degree;
